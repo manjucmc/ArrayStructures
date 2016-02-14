@@ -1,2 +1,1 @@
-# ArrayStructures
-# Array Data Structures sorting searcing with use cases
+# Data Structures in Java
